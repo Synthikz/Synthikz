@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Synthikz!
+# Hi there 👋, I'm nowpy!
 
 I'm a young tech enthusiast who loves programming and exploring new technologies. I have experience with languages like **JavaScript**, **Python**, **C++**, and **C#**. I'm not a master yet, but I'm learning and improving every day! 💪
 
@@ -17,4 +17,4 @@ One of my greatest passions is creating my own programs and games 🎮. I’m ai
 Feel free to explore my repositories, ask questions, or just connect! Let's grow together in the world of technology! ✨
 
 ## How to reach me 📫:
-- Email: [hi@synthikz.com](mailto:hi@synthikz.com)
+- Email: [hi@nowpy.dev](mailto:hi@nowpy.dev)
